@@ -7,7 +7,7 @@ void thap(int n, char nguon, char dich, char phu)
     if (n ==1)
     {
         buoc++;
-        cout << "Buoc: " << buoc << "Chuyen dia tu " << nguon << " sang " << phu << endl;
+        cout << "Buoc: " << buoc << "Chuyen dia tu " << nguon << " sang " << dich << endl;
     }
     else 
     {
